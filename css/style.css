@@ -11,8 +11,6 @@
   /* Header/Blog Title */
   header {
     background: white;
-    /* background-image: url("../images/baseballs.jpg");
-    background-size: cover; */
     
   }
 
@@ -102,7 +100,6 @@ a:hover{
 }
 
 body{
-  background-image: url("../images/wood_baseballs.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
