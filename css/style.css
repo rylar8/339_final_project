@@ -35,11 +35,19 @@
   }
   
   /* Fake image */
-  .fakeimg, .realimg{
+  .fakeimg{
     background-color: #aaa;
     width: 100%;
     padding: 20px;
   }
+
+  /* Real image */
+
+.realimg{
+    display: inline-block;
+    border: 3px solid black;
+    margin: 1px;
+}
   
   /* Add a card effect for articles */
   .card {
