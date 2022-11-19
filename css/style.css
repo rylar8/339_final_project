@@ -47,6 +47,7 @@
     display: inline-block;
     border: 3px solid black;
     margin: 1px;
+    object-fit: cover;
 }
   
   /* Add a card effect for articles */
